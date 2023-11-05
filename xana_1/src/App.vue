@@ -1,7 +1,5 @@
 <template>
   <navi></navi>
-  <b-button href="#" variant="primary">Go somewhere</b-button>
-
   <router-view />
   <contactoo></contactoo>
   <maps></maps>
